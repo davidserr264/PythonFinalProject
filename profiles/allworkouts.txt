@@ -1,0 +1,25 @@
+Push-ups	3.8
+Jumping-Jacks	11
+Sit ups	3.8
+Squats	5
+Burpies	8
+Lundges	3.8
+Jump-roping	10
+Planks	5
+Side Plank with Bent Knees	6
+Jog-in-places	6
+yoga,Hatha	3
+yoga,Power	4
+yoga,Surya Namaskar	3.3
+yoga,Nadisodhana	2
+Side-to-side jumps	6
+Bent Knee Push-ups	3
+Glute Bridges	5
+stretching, mild	2.3
+video exercise workouts,light	2.3
+video exercise workouts,moderate	4	
+video exercise workouts,vigerous	6
+Pilates(general)	3
+Lifting-weights	4.5
+Pull-ups	3.8
+Leg-extensions	6
